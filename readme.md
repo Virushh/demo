@@ -1,4 +1,3 @@
 # Demo
 hi
-its a simple test file 
-!
+its a simple test file !
